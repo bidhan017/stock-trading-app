@@ -1,5 +1,5 @@
 requests
 openai
-dotenv
+python-dotenv
 schedule
-snowflake-connector-python
+mysql-connector-python
